@@ -1,4 +1,4 @@
-# Smart Trip Management System (TMS)
+# SmartTrip – Intelligent Travel Planning and Management System(TMS)
 
 A web-based travel planning and trip management application that brings destination discovery, budget-aware booking, day-wise itinerary planning, weather information, and trip administration into one place.
 
